@@ -1,0 +1,1 @@
+<jsp:include page="../elements/navbar.jsp" flush="true"/>

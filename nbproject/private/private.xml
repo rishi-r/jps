@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/cis/Documents/projects/resumecreator/web/layouts/objects.jsp</file>
+            <file>file:/home/cis/Documents/projects/resumecreator/src/java/Servlets/HomeController.java</file>
+            <file>file:/home/cis/Documents/projects/resumecreator/src/java/db/Connect.java</file>
+            <file>file:/home/cis/Documents/projects/resumecreator/web/assets/js/custom/app.js</file>
+            <file>file:/home/cis/Documents/projects/resumecreator/src/java/Servlets/CustomServlet.java</file>
+            <file>file:/home/cis/Documents/projects/resumecreator/src/java/models/LoginModel.java</file>
+            <file>file:/home/cis/Documents/projects/resumecreator/web/home/login.jsp</file>
+            <file>file:/home/cis/Documents/projects/resumecreator/web/WEB-INF/web.xml</file>
+            <file>file:/home/cis/Documents/projects/resumecreator/web/layouts/default.jsp</file>
+            <file>file:/home/cis/Documents/projects/resumecreator/src/java/Servlets/LoginController.java</file>
+            <file>file:/home/cis/Documents/projects/resumecreator/src/java/utils/CommonHelper.java</file>
+        </group>
+    </open-files>
+</project-private>
